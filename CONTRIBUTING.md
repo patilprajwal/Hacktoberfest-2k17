@@ -7,7 +7,7 @@
 * Go to [Hacktober Fest 2k17](https://github.com/WebClub-NITK/Hacktoberfest-2k17/) Web Club repository and click on the fork button as shown in the image to fork the repository to your account!
 
 ![hack1](https://user-images.githubusercontent.com/16410361/30946872-0867f7fa-a424-11e7-936c-93c007c5101a.png)
-)
+
 
 ## Clone
 ![hack2](https://user-images.githubusercontent.com/16410361/30947040-1a748fa2-a425-11e7-878d-7909977b3e00.png)
@@ -25,10 +25,14 @@ Fill in your details there and save the file! Make sure you save it in the Parti
 Add the following commands on Git Bash or Git whichever you are using.
 
 ## Send a Pull Request
-![hack7](https://user-images.githubusercontent.com/16410361/30947333-d403a45c-a426-11e7-888c-43b82180c715.png)
+!t
+hackt
+](https://user-images.githubusercontent.com/16410361/30947333-d403a45c-a426-11e7-888c-43b82180c715.png)
 
 ![hack8](https://user-images.githubusercontent.com/16410361/30947389-1e18b2d0-a427-11e7-9441-9e585c174b43.png)
 
 Find more Issues on the Wiki and happy hacking this Hacktoberfest!
 
+t
+:q
 
